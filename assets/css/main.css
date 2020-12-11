@@ -1884,7 +1884,7 @@ header.major h2 {
 }
 
 header.major h2 + p {
-  color: #5ccfb1;
+  color: #ffb404;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -2810,7 +2810,7 @@ input[type='button']:disabled,
 #header h4,
 #header h5,
 #header h6 {
-  color: #5ccfb1;
+  color: #ffb404;
 }
 
 #header h1 a,
@@ -2875,7 +2875,7 @@ input[type='button']:disabled,
 }
 
 #header > footer .icons li a {
-  color: #5ccfb1;
+  color: #ffb404;
 }
 
 #header > nav {
@@ -2892,7 +2892,7 @@ input[type='button']:disabled,
 }
 
 #header > nav ul li {
-  border-top: solid 2px #5ccfb1;
+  border-top: solid 2px #ffb404;
   display: block;
   padding: 0;
 }
