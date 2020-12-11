@@ -236,7 +236,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #777;
+  color: #282c34;
   font-weight: 700;
   line-height: 1em;
   margin: 0 0 0.5625em 0;
@@ -1884,7 +1884,7 @@ header.major h2 {
 }
 
 header.major h2 + p {
-  color: #777;
+  color: #5ccfb1;
   font-size: 1.75em;
   font-weight: 700;
   margin-top: -0.75em;
@@ -2810,7 +2810,7 @@ input[type='button']:disabled,
 #header h4,
 #header h5,
 #header h6 {
-  color: #ffffff;
+  color: #5ccfb1;
 }
 
 #header h1 a,
@@ -2823,7 +2823,7 @@ input[type='button']:disabled,
 }
 
 #header header p {
-  color: #b7eadc;
+  color: #fff;
 }
 
 #header a {
@@ -2854,7 +2854,7 @@ input[type='button']:disabled,
 }
 
 #header > header p {
-  color: #d2f2e9;
+  color: #fff;
   font-style: italic;
   margin: 1em 0 0 0;
 }
@@ -2875,7 +2875,7 @@ input[type='button']:disabled,
 }
 
 #header > footer .icons li a {
-  color: #b7eadc;
+  color: #5ccfb1;
 }
 
 #header > nav {
